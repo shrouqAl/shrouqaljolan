@@ -2,10 +2,10 @@
 
 [LinkedIn](https://www.linkedin.com/in/shrouqaljolan) | [Gmail](mailto:ds.shrouq@gmail.com)
 
-## 🎓 Shrouq Aljolan
+## I'm Shrouq Aljolan
 
-🎓 **Master's Degree in Data Science**
-🎓 **Bachelor's Degree in Mathematics**
+📊 **Master's Degree in Data Science**
+📐 **Bachelor's Degree in Mathematics**
 
 ---
 
