@@ -15,7 +15,7 @@
 ✔️ **Data Mining & Predictive Modeling**
 ✔️ **Data Visualization & Analytics**
 ✔️ **Libraries & Frameworks:** Pandas, NumPy, Scikit-Learn, PyTorch
-✔️ **Database & BI Tools:** Advanced SQL, Power BI, Excel
+✔️ **Database & BI Tools:** SQL, Power BI, Excel
 
 ---
 
